@@ -70,7 +70,7 @@ int main() {
                 }
             } else {
                 printf("Invalid move! Try again.\n");
-                printf("Press Enter to continue...");
+                printf("Press Enter to continue..");
                 while (getchar() != '\n');
                 getchar();
             }
